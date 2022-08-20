@@ -75,7 +75,7 @@ void Add_Student(){
         printf("Enter Address: \n");
         scanf ("%s",&info[i].Address);
        // fgets(info.Address, sizeof(info.Address), stdin);
-        printf("Enter percentage:");
+        printf("Enter per:");
         scanf("%i",&info[i].percentage);
         printf("-------------------------------\n");
         if (fptr == NULL)
