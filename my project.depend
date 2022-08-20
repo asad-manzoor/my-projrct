@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660552736 source:e:\cs50 codes\my project\main.c
+	<stdio.h>
+	<stdlib.h>
+
